@@ -12,9 +12,9 @@ Superstore dataset
 - Styled the dashboard with consistentformatting, clear titles, and a clear page layout
 - Created a summary page with Key business insights from the dashboard.
 ## Dashboard screnshot 
-![Dashboard Overview](Pictures/Screenshots/Screenshot%202026-06-30%20132906.png)
+![Dashboard Overview](Pictures/Screenshots/dashboard.png)
 
-![Screenshot](Pictures/Screenshots/Screenshot%202026-06-30%20133116.png) 
+![Summary Page](Pictures/Screenshots/summary.png) 
 
 ## Files in the Repository
 - Superstore.csv- dataset used
