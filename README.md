@@ -11,7 +11,12 @@ Superstore dataset
 - Chose chart types delibrately- bar charts for categopry companisons, a line chart for the time trend, and a pie chart only for segments, since there are only three values.
 - Styled the dashboard with consistentformatting, clear titles, and a clear page layout
 - Created a summary page with Key business insights from the dashboard.
-  
+## Dashboard screnshot 
+![Dashboard Overview](Screenshot 2026-06-30 132906.png)
+
+![Screenshot](Screenshot 2026-06-30 133116.png) 
+
 ## Files in the Repository
 - Superstore.csv- dataset used
-- Task2- Superstore datset.pbix- Power BI file 
+- Task2- Superstore datset.pbix- Power BI file
+- Screenshots- dashboard and summary page images
